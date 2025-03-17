@@ -5,16 +5,15 @@
 
 
 .mdl-layout__header-row {
-  background-color: rgb(0, 93, 98);
+  background-color: rgb(77, 0, 84);
   border-radius: 20px;
 }
 
 body {
-  background-color: silver;
+  background-color: rgb(165, 5, 5);
 }
 
 img {
   float: right;
-  height: 200px;
-  border-radius: 20px;
+  border-radius: 12px;
 }

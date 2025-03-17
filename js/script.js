@@ -1,10 +1,11 @@
 // Copyright (c) 2020 Mr. Coxall All rights reserved
-//
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// 
+// Created by: Benjamin Abebe
+// Created on: Feb 2025
 // This file contains the JS functions for index.html
 
 
 function myButtonClicked() {
-  alert("Hello, World!")
+  document.getElementById("area").innerHTML = "<p>The area is:- " + (5 * 3) + "</p>" 
+  document.getElementById("perimeter").innerHTML = "<p>The perimeter is:- " + (2*5+ 2*3) + "</p>"
 }
